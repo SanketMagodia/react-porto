@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-porto/static/css/main.54179614.css",
-    "main.js": "/react-porto/static/js/main.f8d990f9.js",
+    "main.js": "/react-porto/static/js/main.0a6daecd.js",
     "static/media/image.jpg": "/react-porto/static/media/image.66f238adf560c8d60a72.jpg",
     "static/media/mask.gif": "/react-porto/static/media/mask.430d2f2ccacd5f9e2fa9.gif",
     "static/media/style.gif": "/react-porto/static/media/style.8b9e7249772b550cc442.gif",
@@ -12,10 +12,10 @@
     "static/media/surv.gif": "/react-porto/static/media/surv.189558bd762ed660f1fa.gif",
     "index.html": "/react-porto/index.html",
     "main.54179614.css.map": "/react-porto/static/css/main.54179614.css.map",
-    "main.f8d990f9.js.map": "/react-porto/static/js/main.f8d990f9.js.map"
+    "main.0a6daecd.js.map": "/react-porto/static/js/main.0a6daecd.js.map"
   },
   "entrypoints": [
     "static/css/main.54179614.css",
-    "static/js/main.f8d990f9.js"
+    "static/js/main.0a6daecd.js"
   ]
 }
