@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-porto/static/css/main.54179614.css",
+    "main.js": "/react-porto/static/js/main.f8d990f9.js",
+    "static/media/image.jpg": "/react-porto/static/media/image.66f238adf560c8d60a72.jpg",
+    "static/media/mask.gif": "/react-porto/static/media/mask.430d2f2ccacd5f9e2fa9.gif",
+    "static/media/style.gif": "/react-porto/static/media/style.8b9e7249772b550cc442.gif",
+    "static/media/resnet.gif": "/react-porto/static/media/resnet.55cd2bc7c55b48156844.gif",
+    "static/media/gan.gif": "/react-porto/static/media/gan.2cae48efcd26214248cd.gif",
+    "static/media/port.gif": "/react-porto/static/media/port.120c971b37404c817f57.gif",
+    "static/media/ocr.gif": "/react-porto/static/media/ocr.f520bab482c249640750.gif",
+    "static/media/surv.gif": "/react-porto/static/media/surv.189558bd762ed660f1fa.gif",
+    "index.html": "/react-porto/index.html",
+    "main.54179614.css.map": "/react-porto/static/css/main.54179614.css.map",
+    "main.f8d990f9.js.map": "/react-porto/static/js/main.f8d990f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54179614.css",
+    "static/js/main.f8d990f9.js"
+  ]
+}
